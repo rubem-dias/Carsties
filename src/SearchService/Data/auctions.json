@@ -1,0 +1,20 @@
+﻿[
+  {
+    "id": "4f5b8d78-fdf6-4126-a6bd-109f08b17a8d",
+    "reservePrice": 1000,
+    "seller": "John Doe",
+    "winner": "Jane Smith",
+    "soldAmount": 1500,
+    "currentHighBid": 1600,
+    "createdAt": "2024-06-30T23:32:33.454364Z",
+    "updatedAt": "2024-06-30T23:32:33.454364Z",
+    "auctionEnd": "2024-07-07T23:32:33.454503Z",
+    "status": "Live",
+    "make": "Ford",
+    "model": "F150",
+    "color": "Red",
+    "mileage": 10000,
+    "year": 2020,
+    "imageUrl": null
+  }
+]

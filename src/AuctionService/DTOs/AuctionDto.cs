@@ -14,7 +14,6 @@ namespace AuctionService.DTOs
         public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
         public DateTime AuctionEnd { get; set; }
         public Status Status { get; set; }
-        public Item Item { get; set; }
 
         //Item
         public string Make { get; set; }
